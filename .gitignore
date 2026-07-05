@@ -1,0 +1,16 @@
+# Virtual Environments
+.venv/
+venv/
+
+# Dataset
+Reviews.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
