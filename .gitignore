@@ -1,32 +1,22 @@
-<<<<<<< HEAD
-# Virtual Environments
-.venv/
-venv/
-
-# Dataset
-Reviews.csv
-
-=======
 # Virtual Environment
-.venv/
 venv/
+.venv/
 
->>>>>>> 21394ee921cd43e8bf08dc89a13c539f54ee37fb
-# Python Cache
+# Python cache
 __pycache__/
 *.pyc
-
-# Environment Variables
-.env
+*.pyo
+*.pyd
 
 # VS Code
-<<<<<<< HEAD
-.vscode/
-=======
 .vscode/
 
-# Streamlit
-.streamlit/
+# Environment variables
+.env
 
+# Large dataset
 Reviews.csv
->>>>>>> 21394ee921cd43e8bf08dc89a13c539f54ee37fb
+
+# Operating System files
+.DS_Store
+Thumbs.db
