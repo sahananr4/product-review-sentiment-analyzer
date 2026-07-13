@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual Environments
 .venv/
 venv/
@@ -5,6 +6,12 @@ venv/
 # Dataset
 Reviews.csv
 
+=======
+# Virtual Environment
+.venv/
+venv/
+
+>>>>>>> 21394ee921cd43e8bf08dc89a13c539f54ee37fb
 # Python Cache
 __pycache__/
 *.pyc
@@ -13,4 +20,13 @@ __pycache__/
 .env
 
 # VS Code
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+
+# Streamlit
+.streamlit/
+
+Reviews.csv
+>>>>>>> 21394ee921cd43e8bf08dc89a13c539f54ee37fb
